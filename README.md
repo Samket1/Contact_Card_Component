@@ -2,21 +2,7 @@
 ## Name: `Samket Ateklit`
 ## ID: `OJ3892`
 ## Section: `B`
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-=======
 ================================================
->>>>>>> 0b21d4cfc7a7e1ae6b0c919749dcd7c5a87ff037
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
