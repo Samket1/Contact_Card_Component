@@ -13,16 +13,16 @@ function App() {
     <div>
       <h1>Contact List</h1>
       <div className='cards-grid'>
-      {contacts.map((user)=>(
-        <Contact
-        key={user.id}
-        name={user.name}
-        phone={user.phone}
-        email={user.email}
-        pfp={`https://i.pravatar.cc/150?u=${user.id}`}
-        />
-        
-      ))}
+        {contacts.map((user) => (
+          <Contact
+            key={user.id}
+            name={user.name}
+            phone={user.phone}
+            email={user.email}
+            pfp={`https://i.pravatar.cc/150?u=${user.id}`}
+          />
+
+        ))}
 
       </div>
     </div>
