@@ -1,3 +1,18 @@
+# Contact_Card_Component
+## Name: `Samket Ateklit`
+## ID: `OJ3892`
+## Section: `B`
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
